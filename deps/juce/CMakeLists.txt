@@ -21,7 +21,7 @@
 #
 # ==============================================================================
 
-cmake_minimum_required(VERSION 3.22)
+cmake_minimum_required(VERSION 3.20)
 
 project(JUCE VERSION 7.0.8 LANGUAGES C CXX)
 
